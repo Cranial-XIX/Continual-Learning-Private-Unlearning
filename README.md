@@ -1,5 +1,5 @@
 # Continual-Learning-Private-Unlearning
-Official PyTorch implementation for Continual Learning and Private Unlearning Paper.
+Official PyTorch implementation for Continual Learning and Private Unlearning, which has been accepted to **CoLLAs 2022**.
 
 # To run the experiments
 ```

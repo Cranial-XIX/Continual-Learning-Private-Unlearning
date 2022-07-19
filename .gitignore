@@ -1,0 +1,5 @@
+logs/
+results/*
+data/*
+*.txt
+*.pyc
